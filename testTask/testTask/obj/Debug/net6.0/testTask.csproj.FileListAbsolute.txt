@@ -1,0 +1,15 @@
+C:\Users\016MakarovAK\source\repos\testTask\testTask\bin\Debug\net6.0\testTask.exe
+C:\Users\016MakarovAK\source\repos\testTask\testTask\bin\Debug\net6.0\testTask.deps.json
+C:\Users\016MakarovAK\source\repos\testTask\testTask\bin\Debug\net6.0\testTask.runtimeconfig.json
+C:\Users\016MakarovAK\source\repos\testTask\testTask\bin\Debug\net6.0\testTask.dll
+C:\Users\016MakarovAK\source\repos\testTask\testTask\bin\Debug\net6.0\testTask.pdb
+C:\Users\016MakarovAK\source\repos\testTask\testTask\obj\Debug\net6.0\testTask.csproj.AssemblyReference.cache
+C:\Users\016MakarovAK\source\repos\testTask\testTask\obj\Debug\net6.0\testTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\016MakarovAK\source\repos\testTask\testTask\obj\Debug\net6.0\testTask.AssemblyInfoInputs.cache
+C:\Users\016MakarovAK\source\repos\testTask\testTask\obj\Debug\net6.0\testTask.AssemblyInfo.cs
+C:\Users\016MakarovAK\source\repos\testTask\testTask\obj\Debug\net6.0\testTask.csproj.CoreCompileInputs.cache
+C:\Users\016MakarovAK\source\repos\testTask\testTask\obj\Debug\net6.0\testTask.dll
+C:\Users\016MakarovAK\source\repos\testTask\testTask\obj\Debug\net6.0\refint\testTask.dll
+C:\Users\016MakarovAK\source\repos\testTask\testTask\obj\Debug\net6.0\testTask.pdb
+C:\Users\016MakarovAK\source\repos\testTask\testTask\obj\Debug\net6.0\testTask.genruntimeconfig.cache
+C:\Users\016MakarovAK\source\repos\testTask\testTask\obj\Debug\net6.0\ref\testTask.dll
